@@ -1,5 +1,5 @@
 django-filter==1.0.4
-Django==1.10.3
+Django==2.2.24
 djangorestframework==3.6.4
 Markdown==2.6.9
 pip==9.0.1
